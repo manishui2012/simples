@@ -33,8 +33,6 @@ a {text-decoration: none;}
 .contentss {display: none;}
 .contentss.active-content {display: block;}
 
-
-
 @media all and (max-width: 767px) {
     .gc_vd_itm img {width: 100%;}
 }
